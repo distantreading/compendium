@@ -24,11 +24,9 @@ Any expansion of the TEI beyond its traditional user base involves a recognition
 
 Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary Studies
 
-### Access
+### Direct Access
 
-* PDF: [Direct download](/../compendium/blob/main/f/comity.pdf)
-* DOI: https://doi.org/10.4000/jtei.3500
-
+* [PDF](https://github.com/distantreading/compendium/blob/main/f/comity.pdf)
 
 ### BibTex
 
