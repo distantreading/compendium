@@ -4,7 +4,7 @@
 
 Welcome to the _Distant Reading Compendium_. This virtual edited volume unites contributions that have emerged from the COST Action _Distant Reading for European Literary History_ (CA16204). 
 
-Reference: _The Distant Reading Compendium_. Edited by Christof Schöch and Maciej Eder. Trier: Distant Reading for European Literary History, 2022. URL: https://distantreading.github.io/compendium/, DOI: [10.5281/zenodo.6513699](https://doi.org/10.5281/zenodo.6513699). 
+Reference: _The Distant Reading Compendium_, edited by Christof Schöch and Maciej Eder. Trier: Distant Reading for European Literary History, 2022. URL: https://distantreading.github.io/compendium/, DOI: [10.5281/zenodo.6513699](https://doi.org/10.5281/zenodo.6513699). 
 
 ## Front Matter
 
