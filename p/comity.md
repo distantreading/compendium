@@ -3,14 +3,11 @@ title: "In Search of Comity"
 permalink: /p/comity/
 ---
 
-<meta>
-<citation_title>In Search of Comity: TEI for Distant Reading</citation_title>
-<citation_author>Lou Burnard</citation_author>
-<citation_publication_date>2021</citation_publication_date>
-<citation_journal_title>Journal of the Text Encoding Initiative</citation_journal_title>
-<citation_issue>14</citation_issue>
-</meta>
-
+<meta name="citation_title" content="In Search of Comity: TEI for Distant Reading">
+<meta name="citation_author" content="Lou Burnard">
+<meta name="citation_publication_date" content="2021">
+<meta name="citation_journal_title" content="Journal of the Text Encoding Initiative">
+<meta name="citation_issue" content="14">
 
 
 ## Chapter 1.1: In Search of Comity: TEI for Distant Reading
