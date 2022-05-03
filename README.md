@@ -1,6 +1,10 @@
+[![DOI](https://zenodo.org/badge/488133298.svg)](https://zenodo.org/badge/latestdoi/488133298)
+
 # The Distant Reading Compendium 
 
 Welcome to the _Distant Reading Compendium_. This virtual edited volume unites contributions that have emerged from the COST Action _Distant Reading for European Literary History_ (CA16204). 
+
+Reference: _The Distant Reading Compendium_. Edited by Christof Schöch and Maciej Eder. Trier: Distant Reading for European Literary History, 2022. URL: https://distantreading.github.io/compendium/, DOI: [10.5281/zenodo.6513699](https://doi.org/10.5281/zenodo.6513699). 
 
 ## Front Matter
 
@@ -41,3 +45,6 @@ This section is dedicated to papers describing the process of designing and buil
 
 ### Chapter 4.2: Stylometry in a Bilingual Setup
 **Silve Cinková and Jan Rybicki**
+
+
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3Ahttps%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.6513699&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Distant%20Reading%20Compendium&amp;rft.place=Trier&amp;rft.publisher=Distant%20Reading%20for%20European%20Literary%20History&amp;rft.aufirst=Christof&amp;rft.aulast=Sch%C3%B6ch&amp;rft.au=Christof%20Sch%C3%B6ch&amp;rft.au=Maciej%20Eder&amp;rft.date=2022&amp;rft.isbn=https%3A%2F%2Fdoi.org%2F10.5281%2Fzenodo.6513699'></span>
