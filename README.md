@@ -19,7 +19,7 @@ This section is dedicated to papers describing the process of designing and buil
 #### [In Search of Comity: TEI for Distant Reading](/p/comity.md)
 **Lou Burnard, Christof Schöch, Carolin Odebrecht**
 
-#### [Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives)](/p/creating.md)
+#### [Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives](/p/creating.md)
 **Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec**
 
 #### [The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection](/p/serbian.md)
