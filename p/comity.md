@@ -10,7 +10,7 @@ permalink: /p/comity/
 <meta name="citation_issue" content="14">
 
 
-## Chapter 1.1: In Search of Comity: TEI for Distant Reading
+## In Search of Comity: TEI for Distant Reading
 
 ### Reference
 
