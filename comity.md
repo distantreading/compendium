@@ -1,3 +1,7 @@
+layout: page
+title: "In Search of Comity"
+permalink: /p/comity.md
+
 ## Chapter 1.1: In Search of Comity: TEI for Distant Reading
 
 Authors: Lou Burnard, Christof Schöch, Carolin Odebrecht. 
