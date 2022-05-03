@@ -35,4 +35,4 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
  }
 ```
 
-<script src="https://bibbase.org/show?bib=https://github.com/distantreading/Compendium/raw/main/b/comity.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://github.com/distantreading/Compendium/raw/main/b/comity.bib&jsonp=1&fullnames=1&hidemenu=true"></script>
