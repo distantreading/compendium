@@ -26,13 +26,18 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
 ### BibTex
 
 ```
-@article{burnard_search_nodate,
-     title = {In {Search} of {Comity}: {TEI} for {Distant} {Reading}},
-     doi = {https://doi.org/10.5281/zenodo.3552488 (preprint)},
-     language = {eng},
-     journal = {Journal of the Text Encoding Initiative},
-     author = {Burnard, Lou and Odebrecht, Carolin and Schöch, Christof},
- }
+@article{burnard_search_2021,
+	title = {In search of comity: {TEI} for distant reading},
+	copyright = {Creative Commons Attribution 4.0 International},
+	issn = {2162-5603},
+	shorttitle = {In search of comity},
+	url = {https://journals.openedition.org/jtei/3500},
+	doi = {10.4000/jtei.3500},
+	language = {fra},
+	number = {14},
+	journal = {Journal of the Text Encoding Initiative},
+	author = {Burnard, Lou and Schöch, Christof and Odebrecht, Carolin},
+	year = {2021},
 ```
 
 <script src="https://bibbase.org/show?bib=https://github.com/distantreading/Compendium/raw/main/b/comity.bib&jsonp=1&fullnames=1&hidemenu=true"></script>
