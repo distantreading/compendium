@@ -19,7 +19,7 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
 
 ### Access
 
-* PDF: [Direct download](https://github.com/distantreading/Compendium/raw/main/pdf/comity.pdf)
+* PDF: [Direct download](https://github.com/distantreading/Compendium/raw/main/f/comity.pdf)
 * DOI: https://doi.org/10.4000/jtei.3500
 
 
@@ -34,3 +34,5 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
      author = {Burnard, Lou and Odebrecht, Carolin and Schöch, Christof},
  }
 ```
+
+<script src="https://bibbase.org/show?bib=https://github.com/distantreading/Compendium/raw/main/b/comity.bib&jsonp=1"></script>
