@@ -34,6 +34,8 @@ This section contains papers concerned with the process of adding annotations to
 
 ## Section 3: Analysing ELTeC
 
+The papers in this section are dedicated to the analysis of one or several of the corpora contained in ELTeC. These papes have been published by a wide range of authors from the Action, in many cases working in Working Group 2 and/or Working Group 3. 
+
 #### Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections
 **Authors: Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
 
@@ -41,6 +43,8 @@ This section contains papers concerned with the process of adding annotations to
 **Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa**
 
 ## Section 4: Beyond ELTeC, beyond the Action
+
+Work in the Action has in many cases also looked beyond ELTeC or beyond the immediate context of the Action to consider more general issues of Distant Reading, Computational Literary Studies, or Digital Humanities. This section contains papers from this angle. 
 
 #### The Splendors and Mist(Eries) of Romanian Digital Literary Studies
 **Roxana Patras, Ioana Galleron, Camelia Gradinaru, Ioana Lionte, and Lucreţia Pascaru**
