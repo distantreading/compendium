@@ -57,7 +57,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 * A [list of all papers in the _Distant Reading Compendium_](https://github.com/distantreading/compendium/blob/main/d/compendium-list.pdf) in PDF format
 * [All papers listed here in BibTex format](https://raw.githubusercontent.com/distantreading/compendium/main/d/compendium-bibtex.bib) for import in reference managers
 * [All papers listed here as a ZIP archive of PDF files](https://github.com/distantreading/compendium/raw/main/d/compendium-pdfs.zip)
-* The [full bibliography of papers and presentations](https://www.zotero.org/groups/2379909/ cost_action_distant_reading_for_european_literary_history/library) produced by Action members
+* The [full bibliography of papers and presentations](https://www.zotero.org/groups/2379909/ cost_action_distant_reading_for_european_literary_history/library) produced by Action members, curated on Zotero
 * The website of the COST Action [Distant Reading for European Literary History](https://www.distant-reading.net/)] (CA16204)
 
 
