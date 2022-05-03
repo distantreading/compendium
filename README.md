@@ -10,13 +10,15 @@ This introduction present the COST Action Distant Reading for European Literatur
 
 ## Section 1: Building ELTeC
 
-#### [In Search of Comity: TEI for Distant Reading](/p/comity.md)
+This section is dedicated to papers describing the process of designing and building the European Literary Text Collection (ELTeC). Many of these papers emerge from members of Working Group 1 in which this process was coordinated. The Working Group leads were Carolin Odebrecht, Lou Burnard, Borja Navarro Colorado and Martina Scholger. 
+
+#### [In Search of Comity: TEI for Distant Reading (2021)](/p/comity.md)
 **Lou Burnard, Christof Schöch, Carolin Odebrecht**
 
-#### Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives
+#### Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives (2021)
 **Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec**
 
-#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
+#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection (2021)
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
 ## Section 2: Annotating ELTeC
