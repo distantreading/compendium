@@ -39,3 +39,5 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
 	author = {Burnard, Lou and Schöch, Christof and Odebrecht, Carolin},
 	year = {2021},
 ```
+
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.4000%2Fjtei.3500&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In%20search%20of%20comity%3A%20TEI%20for%20distant%20reading&amp;rft.jtitle=Journal%20of%20the%20Text%20Encoding%20Initiative&amp;rft.issue=14&amp;rft.aufirst=Lou&amp;rft.aulast=Burnard&amp;rft.au=Lou%20Burnard&amp;rft.au=Christof%20Sch%C3%B6ch&amp;rft.au=Carolin%20Odebrecht&amp;rft.date=2021&amp;rft.issn=2162-5603&amp;rft.language=fr'></span>
