@@ -13,18 +13,23 @@ This introduction present the COST Action Distant Reading for European Literatur
 ### Chapter 1.1: [In Search of Comity: TEI for Distant Reading](/p/comity.md), by Lou Burnard, Christof Schöch, Carolin Odebrecht
 
 <details>
-<summary>Abstract</summary>
+<summary>Abstract (click to expand)</summary>
   
 Any expansion of the TEI beyond its traditional user base involves a recognition that there are many differing answers to the traditional question “What is text, really?” We report on some work carried out in the context of the COST Action Distant Reading for European Literary History (CA16204), in particular on the TEI-conformant schemas developed for one of its principal deliverables: the European Literary Text Collection (ELTeC). – The ELTeC will contain comparable corpora for each of at least a dozen European languages, each being a balanced sample of one hundred novels from the period 1840 to 1920, together with metadata concerning their production and reception. We hope that it will become a reliable basis for comparative work in data-driven textual analytics. – The focus of the ELTeC encoding scheme is not to represent texts in all their original complexity, nor to duplicate the work of scholarly editors. Instead, we aim to facilitate a richer and better-informed distant reading than a transcription of lexical content alone would permit. At the same time, where the TEI encourages diversity, we enforce consistency by permitting representation of only a specific and quite small set of textual features, both structural and analytical. These constraints are expressed by a master TEI ODD, from which we derive three different schemas by ODD chaining, each associated with appropriate documentation.
 
 </details>
+<br/>
 
 
-### Chapter 1.2: Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives
+### Chapter 1.2: Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives, by Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec.
 
-Authors: Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec.
+<details>
+<summary>Abstract (click to expand)</summary>
 
 The aim of this contribution is to reflect on the process of building the multilingual European Literary Text Collection (ELTeC) that is being created in the framework of the networking project Distant Reading for European Literary History funded by COST (European Cooperation in Science and Technology). To provide some background, we briefly introduce the basic idea of ELTeC with a focus on the overall goals and intended usage scenarios. We then describe the collection composition principles that we have derived from the usage scenarios. In our discussion of the corpus-building process, we focus on collections of novels from four different literary traditions as components of ELTeC: French, Portuguese, Romanian, and Slovenian, selected from the more than twenty collections that are currently in preparation. For each collection, we describe some of the challenges we have encountered and the solutions developed while building ELTeC. In each case, the literary tradition, the history of the language, the current state of digitization of cultural heritage, the resources available locally, and the scholars’ training level with regard to digitization and corpus building have been vastly different. How can we, in this context, hope to build comparable collections of novels that can usefully be integrated into a multilingual resource such as ELTeC and used in Distant Reading research? Based on our individual and collective experience with contributing to ELTeC, we end this contribution with some lessons learned regarding collaborative, multilingual corpus building.
+
+</details>
+<br/>
 
 ### Chapter 1.3: The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
 
