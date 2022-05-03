@@ -1,52 +1,54 @@
 ---
-title: "The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection"
-permalink: /p/serbian/
+title: "Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives"
+permalink: /p/comity/
 ---
 
-<meta name="citation_title" content="The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection">
-<meta name="citation_author" content="Aleksandra Trtovac">
-<meta name="citation_author" content="Vasilije Milnović">
-<meta name="citation_author" content="Cvetana Krstev">
+<meta name="citation_title" content="Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives">
+<meta name="citation_author" content="Christof Schöch">
+<meta name="citation_author" content="Roxana Patraș">
+<meta name="citation_author" content="Diana Santos">
+<meta name="citation_author" content="Tomaž Erjavec">
 <meta name="citation_publication_date" content="2021">
-<meta name="citation_journal_title" content="Infotheca – Journal of Digital Humanities">
-<meta name="citation_issue" content="21.1">
+<meta name="citation_journal_title" content="Modern Languages Open">
+<meta name="citation_issue" content="1/25">
 
 
-## The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
+## Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives
 
 ### Reference
 
-Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev. "The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection", _Infotheca – Journal of Digital Humanities_, 21.2 (2021), 7–25. DOI: [10.18485/infotheca.2021.21.2.1](https://doi.org/10.18485/infotheca.2021.21.2.1).
+Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec. "Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives". in: _Modern Languages Open_ 1/25, 2021. – DOI: [10.3828/mlo.v0i0.364](https://doi.org/10.3828/mlo.v0i0.364)
 
 ### Abstract
 
-In this paper we present challenges and solutions in preparing the Serbian part of ELTeC collection, which contains 100 novels written and first published between 1840 and 1920. In the absence of a systematic digital library of Serbian literature this was done from scratch: first, it was necessary to find out which novels existed and could be used, then they had to be retrieved, scanned, corrected and annotated. All this was achieved thanks to enormous efforts of an army of devoted researchers-volunteers. We analyze the results of these efforts and how they fit to the Action’s anticipated outcome.
+The aim of this contribution is to reflect on the process of building the multilingual European Literary Text Collection (ELTeC) that is being created in the framework of the networking project Distant Reading for European Literary History funded by COST (European Cooperation in Science and Technology). To provide some background, we briefly introduce the basic idea of ELTeC with a focus on the overall goals and intended usage scenarios. We then describe the collection composition principles that we have derived from the usage scenarios. In our discussion of the corpus-building process, we focus on collections of novels from four different literary traditions as components of ELTeC: French, Portuguese, Romanian, and Slovenian, selected from the more than twenty collections that are currently in preparation. For each collection, we describe some of the challenges we have encountered and the solutions developed while building ELTeC. In each case, the literary tradition, the history of the language, the current state of digitization of cultural heritage, the resources available locally, and the scholars’ training level with regard to digitization and corpus building have been vastly different. How can we, in this context, hope to build comparable collections of novels that can usefully be integrated into a multilingual resource such as ELTeC and used in Distant Reading research? Based on our individual and collective experience with contributing to ELTeC, we end this contribution with some lessons learned regarding collaborative, multilingual corpus building.
 
 ### Keywords
 
-ELTeC, corpus design, European novel, Literary Studies, Serbian
+ELTeC, corpus design, European novel, Literary Studies
 
 ### Direct Access
 
-* [PDF](https://github.com/distantreading/compendium/blob/main/f/serbian.pdf)
+* [PDF](https://github.com/distantreading/compendium/blob/main/f/creating.pdf)
 
 ### BibTex
 
 ```
-@article{trtovac_serbian_2021,
-     title = {The {Serbian} {Part} of the {ELTeC} – from the {Empty} {List} to the 100 {Novels} {Collection}},
-     volume = {21},
-     issn = {1450-9687, 2217-9461},
-     url = {http://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.1_en},
-     doi = {10.18485/infotheca.2021.21.2.1},
-     number = {2},
-     urldate = {2022-02-17},
-     journal = {Infotheca},
-     author = {Trtovac, Aleksandra and Milnović, Vasilije and Krstev, Cvetana},
+@article{schoch_creating_2021,
+     title = {Creating the {European} {Literary} {Text} {Collection} ({ELTeC}): {Challenges} and {Perspectives}},
+     issn = {2052-5397},
+     shorttitle = {Creating the {European} {Literary} {Text} {Collection} ({ELTeC})},
+     url = {http://www.modernlanguagesopen.org/articles/10.3828/mlo.v0i0.364/},
+     doi = {10.3828/mlo.v0i0.364},
+     language = {en},
+     number = {1},
+     urldate = {2021-12-17},
+     journal = {Modern Languages Open},
+     author = {Schöch, Christof and Patras, Roxana and Erjavec, Tomaž and Santos, Diana},
+     month = dec,
      year = {2021},
-     keywords = {type_publication},
-     pages = {7--25},
+     pages = {25},
  }
 ```
 
-<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.18485%2Finfotheca.2021.21.2.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Serbian%20Part%20of%20the%20ELTeC%20%E2%80%93%20from%20the%20Empty%20List%20to%20the%20100%20Novels%20Collection&amp;rft.jtitle=Infotheca&amp;rft.stitle=Infotheca&amp;rft.volume=21&amp;rft.issue=2&amp;rft.aufirst=Aleksandra&amp;rft.aulast=Trtovac&amp;rft.au=Aleksandra%20Trtovac&amp;rft.au=Vasilije%20Milnovi%C4%87&amp;rft.au=Cvetana%20Krstev&amp;rft.date=2021&amp;rft.pages=7-25&amp;rft.spage=7&amp;rft.epage=25&amp;rft.issn=1450-9687%2C%202217-9461'></span>
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.3828%2Fmlo.v0i0.364&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Creating%20the%20European%20Literary%20Text%20Collection%20(ELTeC)%3A%20Challenges%20and%20Perspectives&amp;rft.jtitle=Modern%20Languages%20Open&amp;rft.issue=1&amp;rft.aufirst=Christof&amp;rft.aulast=Sch%C3%B6ch&amp;rft.au=Christof%20Sch%C3%B6ch&amp;rft.au=Roxana%20Patras&amp;rft.au=Toma%C5%BE%20Erjavec&amp;rft.au=Diana%20Santos&amp;rft.date=2021-12-17&amp;rft.pages=25&amp;rft.issn=2052-5397&amp;rft.language=en'></span>
