@@ -5,6 +5,8 @@ permalink: /p/comity/
 
 <meta name="citation_title" content="In Search of Comity: TEI for Distant Reading">
 <meta name="citation_author" content="Lou Burnard">
+<meta name="citation_author" content="Christof Schöch">
+<meta name="citation_author" content="Carolin Odebrecht">
 <meta name="citation_publication_date" content="2021">
 <meta name="citation_journal_title" content="Journal of the Text Encoding Initiative">
 <meta name="citation_issue" content="14">

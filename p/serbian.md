@@ -9,7 +9,7 @@ permalink: /p/serbian/
 <meta name="citation_author" content="Cvetana Krstev">
 <meta name="citation_publication_date" content="2021">
 <meta name="citation_journal_title" content="Infotheca – Journal of Digital Humanities">
-<meta name="citation_issue" content="21.1">
+<meta name="citation_issue" content="21.2">
 
 
 ## The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection

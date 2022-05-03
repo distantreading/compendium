@@ -25,7 +25,7 @@ The aim of this contribution is to reflect on the process of building the multil
 
 ### Keywords
 
-ELTeC, corpus design, European novel, Literary Studies
+ELTeC, Corpus Design, European Novel, Literary Studies
 
 ### Direct Access
 
