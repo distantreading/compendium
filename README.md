@@ -14,7 +14,7 @@ This introduction presents the COST Action _Distant Reading for European Literat
 
 ## Section 1: Building ELTeC
 
-This section is dedicated to papers describing the process of designing and building the European Literary Text Collection (ELTeC) and encoding the texts contained in each corpus in XML-TEI. Many of these papers emerge from members of Working Group 1 in which this process was coordinated. The Working Group leads were Carolin Odebrecht, Lou Burnard, Borja Navarro Colorado and Martina Scholger. 
+This section is dedicated to papers describing the process of designing and building the European Literary Text Collection (ELTeC) and encoding the texts contained in each corpus in XML-TEI. 
 
 #### [In Search of Comity: TEI for Distant Reading](/p/comity.md)
 **Lou Burnard, Christof Schöch, Carolin Odebrecht**
@@ -27,14 +27,14 @@ This section is dedicated to papers describing the process of designing and buil
 
 ## Section 2: Annotating ELTeC
 
-This section contains papers concerned with the process of adding annotations to one or several ELTeC collections, in particular annotations pertaining to part of speech, dependency relations, and named entities. Many of these papers have been created by authors affiliated with Working Group 2. THe Working Group leads were Mike Kestemont, Joanna Byszuk, Fotis Jannidis and Yaakov Hacohen-Kerner. 
+This section contains papers concerned with the process of adding annotations to one or several ELTeC collections, in particular annotations pertaining to part of speech, dependency relations, and named entities. 
 
 #### Annotation of the Serbian ELTeC Collection
 **Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić**
 
 ## Section 3: Analysing ELTeC
 
-The papers in this section are dedicated to the analysis of one or several of the corpora contained in ELTeC. These papes have been published by a wide range of authors from the Action, in many cases working in Working Group 2 and/or Working Group 3. 
+The papers in this section are dedicated to the analysis of one or several of the corpora contained in ELTeC, with the focus being for example on the titles of the novels or on detecting direct speech. 
 
 #### Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections
 **Authors: Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
