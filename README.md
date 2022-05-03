@@ -10,19 +10,19 @@ Reference: _The Distant Reading Compendium_. Edited by Christof Schöch and Maci
 
 ### Introduction to the volume
 
-This introduction present the COST Action Distant Reading for European Literature and its key output, the European Literary Text Collection (ELTeC). It structures and summarizes the key findings reported on in the various publications that make up this virtual edited volume of publications that have been created by the Action members in the period 2018-2022.
+This introduction presents the COST Action _Distant Reading for European Literature_, which ran from 2017 to 2022, and its key output, the _European Literary Text Collection_ (ELTeC). We aim to structure and summarize the key findings reported on in the various publications that make up this virtual edited volume of publications that have been created by the participants in this networking project. 
 
 ## Section 1: Building ELTeC
 
 This section is dedicated to papers describing the process of designing and building the European Literary Text Collection (ELTeC) and encoding the texts contained in each corpus in XML-TEI. Many of these papers emerge from members of Working Group 1 in which this process was coordinated. The Working Group leads were Carolin Odebrecht, Lou Burnard, Borja Navarro Colorado and Martina Scholger. 
 
-#### [In Search of Comity: TEI for Distant Reading (2021)](/p/comity.md)
+#### [In Search of Comity: TEI for Distant Reading](/p/comity.md)
 **Lou Burnard, Christof Schöch, Carolin Odebrecht**
 
-#### [Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives (2021)](/p/creating.md)
+#### [Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives)](/p/creating.md)
 **Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec**
 
-#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection (2021)
+#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
 ## Section 2: Annotating ELTeC
@@ -55,10 +55,10 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 ## Downloads and links
 
 * A [list of all papers in the _Distant Reading Compendium_](https://github.com/distantreading/compendium/blob/main/d/compendium-list.pdf) in PDF format
-* [All papers listed here in BibTex format](https://github.com/distantreading/compendium/blob/main/d/compendium-bibtex.bib) for import in reference managers
-* [All papers listed here as a ZIP archive of PDF files](https://github.com/distantreading/compendium/blob/main/d/compendium-pdfs.zip)
+* [All papers listed here in BibTex format](https://raw.githubusercontent.com/distantreading/compendium/main/d/compendium-bibtex.bib) for import in reference managers
+* [All papers listed here as a ZIP archive of PDF files](https://github.com/distantreading/compendium/raw/main/d/compendium-pdfs.zip)
 * The [full bibliography of papers and presentations](https://www.zotero.org/groups/2379909/ cost_action_distant_reading_for_european_literary_history/library) produced by Action members
-* The website of the COST Action [Distant Reading for European Literary History(https://www.distant-reading.net/)] (CA16204)
+* The website of the COST Action [Distant Reading for European Literary History](https://www.distant-reading.net/)] (CA16204)
 
 
 
