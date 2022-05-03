@@ -17,7 +17,7 @@ permalink: /p/annotation/
 
 ### Reference
 
-Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić, ‘Annotation of the Serbian ELTeC Collection’, Infotheca – Journal of Digital Humanities, 21.2 (2021), 43–59.
+Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić. "Annotation of the Serbian ELTeC Collection", _Infotheca – Journal of Digital Humanities_, 21.2 (2021), 43–59. DOI: [10.18485/infotheca.2021.21.2.3](https://doi.org/10.18485/infotheca.2021.21.2.3)
 
 ### Abstract
 
