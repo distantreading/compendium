@@ -10,7 +10,7 @@ This introduction present the COST Action Distant Reading for European Literatur
 
 ## Section 1: Building ELTeC
 
-### Chapter 1.1: In Search of Comity: TEI for Distant Reading
+### Chapter 1.1: [In Search of Comity: TEI for Distant Reading](comity.md)
 
 Authors: Lou Burnard, Christof Schöch, Carolin Odebrecht.
 
