@@ -10,13 +10,13 @@ This introduction present the COST Action Distant Reading for European Literatur
 
 ## Section 1: Building ELTeC
 
-### Chapter 1.1: [In Search of Comity: TEI for Distant Reading](/p/comity.md)
+#### [In Search of Comity: TEI for Distant Reading](/p/comity.md)
 **Lou Burnard, Christof Schöch, Carolin Odebrecht**
 
-### Chapter 1.2: Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives
+#### Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives
 **Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec**
 
-### Chapter 1.3: The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
+#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
 ## Section 2: Annotating ELTeC
