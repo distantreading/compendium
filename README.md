@@ -22,7 +22,7 @@ This section is dedicated to papers describing the process of designing and buil
 #### [Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives)](/p/creating.md)
 **Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec**
 
-#### The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection
+#### [The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection](/p/serbian.md)
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
 ## Section 2: Annotating ELTeC
