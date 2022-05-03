@@ -7,7 +7,7 @@ permalink: /p/comity/
 
 ### Reference
 
-Burnard, Lou, Christof Schöch, and Carolin Odebrecht, ‘In Search of Comity: TEI for Distant Reading’, _Journal of the Text Encoding Initiative_ 14, 2021. DOI: https://doi.org/10.4000/jtei.3500.
+Burnard, Lou, Christof Schöch, and Carolin Odebrecht, ‘In Search of Comity: TEI for Distant Reading’, _Journal of the Text Encoding Initiative_ 14, 2021. DOI: [https://doi.org/10.4000/jtei.3500].
 
 ### Abstract
 
