@@ -1,10 +1,14 @@
+---
 layout: page
 title: "In Search of Comity"
-permalink: /p/comity.md
+permalink: /p/comity/
+---
 
 ## Chapter 1.1: In Search of Comity: TEI for Distant Reading
 
-Authors: Lou Burnard, Christof Schöch, Carolin Odebrecht. 
+### Reference
+
+Burnard, Lou, Christof Schöch, and Carolin Odebrecht, ‘In Search of Comity: TEI for Distant Reading’, _Journal of the Text Encoding Initiative_ 14, 2021. DOI: https://doi.org/10.4000/jtei.3500.
 
 ### Abstract
 
@@ -14,9 +18,11 @@ Any expansion of the TEI beyond its traditional user base involves a recognition
 
 Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary Studies
 
-### Citation suggestion
+### Access
 
-Burnard, Lou, Christof Schöch, and Carolin Odebrecht, ‘In Search of Comity: TEI for Distant Reading’, _Journal of the Text Encoding Initiative_ 14, 2021. DOI: https://doi.org/10.4000/jtei.3500.
+* PDF: [Direct download](/pdf/comity.pdf)
+* DOI: https://doi.org/10.4000/jtei.3500
+
 
 ### BibTex
 
