@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "In Search of Comity"
 permalink: /p/comity/
 ---
