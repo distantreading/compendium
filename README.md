@@ -29,7 +29,7 @@ This section is dedicated to papers describing the process of designing and buil
 
 This section contains papers concerned with the process of adding annotations to one or several ELTeC collections, in particular annotations pertaining to part of speech, dependency relations, and named entities. 
 
-#### Annotation of the Serbian ELTeC Collection
+#### [Annotation of the Serbian ELTeC Collection](/p/annotation.md)
 **Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić**
 
 ## Section 3: Analysing ELTeC
