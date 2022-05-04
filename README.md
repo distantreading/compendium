@@ -36,7 +36,7 @@ This section contains papers concerned with the process of adding annotations to
 
 The papers in this section are dedicated to the analysis of one or several of the corpora contained in ELTeC, with the focus being for example on the titles of the novels or on detecting direct speech. 
 
-#### Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections
+#### [Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections](/p/thresholds.md)
 **Authors: Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
 
 #### Detecting Direct Speech in Multilingual Collection of 19th Century Novels
