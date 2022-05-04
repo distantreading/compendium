@@ -1,6 +1,6 @@
 ---
 title: "Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives"
-permalink: /p/comity/
+permalink: /p/creating/
 ---
 
 <meta name="citation_title" content="Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives">
