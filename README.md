@@ -4,7 +4,9 @@
 
 Welcome to the _Distant Reading Compendium_. This virtual edited volume unites contributions that have emerged from the COST Action _Distant Reading for European Literary History_ (CA16204). 
 
-Reference: _The Distant Reading Compendium_, edited by Christof Schöch and Maciej Eder. Trier: Distant Reading for European Literary History, 2022. URL: https://distantreading.github.io/compendium/, DOI: [10.5281/zenodo.6513699](https://doi.org/10.5281/zenodo.6513699). 
+Note that this edited volume is both virtual (in the sense that the papers included here have first been published elsewhere, in Open Access, and are only referenced and contextualized here) and a work in progress (in the sense that we will add further papers emerging from the COST Action network in the future). 
+
+Reference: _The Distant Reading Compendium_, edited by Christof Schöch and Maciej Eder. Trier: Distant Reading for European Literary History, 2022. URL: [distantreading.github.io/compendium/](https://distantreading.github.io/compendium/), DOI: [10.5281/zenodo.6513699](https://doi.org/10.5281/zenodo.6513699). 
 
 ## Front Matter
 
@@ -37,12 +39,19 @@ This section contains papers concerned with the process of adding annotations to
 The papers in this section are dedicated to the analysis of one or several of the corpora contained in ELTeC, with the focus being for example on the titles of the novels or on detecting direct speech. 
 
 #### [Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections](/p/thresholds.md)
-**Authors: Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
+**Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
 
 #### Detecting Direct Speech in Multilingual Collection of 19th Century Novels
 **Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa**
 
-## Section 4: Beyond ELTeC, beyond the Action
+## Section 4: Theoretical concerns 
+
+This section is dedicated to papers that address issues of literary theory and literary history that are of concern when digital corpora and algorithmic methods of analysis are used in Literary Studies. 
+
+#### Apie skaitymą iš toli ir iš arti [About Distant and Close Reading]
+**Saulius Keturakis**
+
+## Section 5: Beyond ELTeC, beyond the Action
 
 Work in the Action has in many cases also looked beyond ELTeC or beyond the immediate context of the Action to consider more general issues of Distant Reading, Computational Literary Studies, or Digital Humanities. This section contains papers from this angle. 
 
