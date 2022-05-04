@@ -1,6 +1,6 @@
 ---
 title: "Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections"
-permalink: /p/XXX/
+permalink: /p/thresholds/
 ---
 
 ## Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections
