@@ -10,7 +10,8 @@ Reference: _The Distant Reading Compendium_, edited by Christof Schöch and Maci
 
 ## Front Matter
 
-### Introduction to the volume
+#### [Introduction to the volume](introduction.md)
+**Christof Schöch and Maciej Eder**
 
 This introduction presents the COST Action _Distant Reading for European Literature_, which ran from 2017 to 2022, and its key output, the _European Literary Text Collection_ (ELTeC). We aim to structure and summarize the key findings reported on in the various publications that make up this virtual edited volume of publications that have been created by the participants in this networking project. 
 
