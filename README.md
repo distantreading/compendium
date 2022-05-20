@@ -60,7 +60,11 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 **Roxana Patras, Ioana Galleron, Camelia Gradinaru, Ioana Lionte, and Lucreţia Pascaru**
 
 #### Stylometry in a Bilingual Setup
-**Silve Cinková and Jan Rybicki**
+**Silvie Cinková and Jan Rybicki**
+
+## Section 6: Distant Reading Recommends 
+
+This section references the blog posts from the Distant Reading Recommends series. The posts in this series describe individual novels from ELTeC that have been unjustly forgotten. 
 
 ## Downloads and links
 
