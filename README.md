@@ -42,8 +42,8 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Thresholds to the ‘Great Unread’: Titling Practices in Eleven ELTeC Collections](/p/thresholds.md)
 **Roxana Patras, Carolin Odebrecht, Ioana Galleron, Rosario Arias, Berenike J. Herrmann, Cvetana Krstev, Katja Mihurko Poniž, Dmytro Yesypenko**
 
-#### Detecting Direct Speech in Multilingual Collection of 19th Century Novels
-**Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa**
+#### [Detecting Direct Speech in Multilingual Collection of 19th Century Novels](/p/detecting.md)
+**Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, Maciej Eder, and others**
 
 ## Section 4: Theoretical concerns 
 
