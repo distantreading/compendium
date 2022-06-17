@@ -21,7 +21,7 @@ permalink: /p/detecting/
 
 ### Reference
 
-Byszuk, Joanna, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, and others. "Detecting Direct Speech in Multilingual Collection of 19th Century Novels", in _Proceedings of LT4HALA 2020-1st Workshop on Language Technologies for Historical and Ancient Languages_, ed. by Rachele Sprungoli and Marco Passarotti (presented at the LT4HALA 2020: 1st Workshop on Language Technologies for Historical and Ancient Languagese, Paris: European Language Resources Association (ELRA), (2020), 100–104.
+Byszuk, Joanna, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, and others. "Detecting Direct Speech in Multilingual Collection of 19th Century Novels", in _Proceedings of LT4HALA 2020-1st Workshop on Language Technologies for Historical and Ancient Languages_, ed. by Rachele Sprungoli and Marco Passarotti (presented at the LT4HALA 2020: 1st Workshop on Language Technologies for Historical and Ancient Languagese, Paris: European Language Resources Association (ELRA), (2020), 100–104. URL: https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf. 
 
 ### Abstract
 
