@@ -45,6 +45,9 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Detecting Direct Speech in Multilingual Collection of 19th Century Novels](/p/detecting.md)
 **Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, Maciej Eder, and others**
 
+#### Short Term Scientific Mission to Krakow: Comparative Stylistic and Morphosyntactic Analysis of ELTeC Texts Using Stylo R Package
+**Mihailo Škorić**
+
 ## Section 4: Theoretical concerns 
 
 This section is dedicated to papers that address issues of literary theory and literary history that are of concern when digital corpora and algorithmic methods of analysis are used in Literary Studies. 
@@ -61,6 +64,11 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 
 #### [Stylometry in a Bilingual Setup](/p/bilingual.md)
 **Silvie Cinková and Jan Rybicki**
+
+#### [Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution](/p/embeddings.md)
+**Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
+
+
 
 ## Section 6: Distant Reading Recommends 
 
