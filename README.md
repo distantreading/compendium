@@ -65,10 +65,11 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [Stylometry in a Bilingual Setup](/p/bilingual.md)
 **Silvie Cinková and Jan Rybicki**
 
-#### [Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution](/p/embeddings.md)
+#### Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution
 **Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
 
-
+#### Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School
+**Mihailo Škorić**
 
 ## Section 6: Distant Reading Recommends 
 
