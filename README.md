@@ -56,7 +56,7 @@ This section is dedicated to papers that address issues of literary theory and l
 
 Work in the Action has in many cases also looked beyond ELTeC or beyond the immediate context of the Action to consider more general issues of Distant Reading, Computational Literary Studies, or Digital Humanities. This section contains papers from this angle. 
 
-#### The Splendors and Mist(Eries) of Romanian Digital Literary Studies
+#### [The Splendors and Mist(Eries) of Romanian Digital Literary Studies](/p/splendors.md)
 **Roxana Patras, Ioana Galleron, Camelia Gradinaru, Ioana Lionte, and Lucreţia Pascaru**
 
 #### Stylometry in a Bilingual Setup
