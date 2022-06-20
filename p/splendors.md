@@ -25,7 +25,7 @@ The present article is a snapshot of Digital Literary Studies (DLS) in the prese
 
 ### Keywords
 
-Computational Literary Studies, Digital Turn, Data management, Annotation, Romanian, Novel, ELTeC
+Computational Literary Studies, Digital Turn, Data management, Annotation, Romanian, Novel
 
 ### Direct Access
 
