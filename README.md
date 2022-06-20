@@ -28,6 +28,12 @@ This section is dedicated to papers describing the process of designing and buil
 #### [The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection](/p/serbian.md)
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
+#### Novels and Authors of the Serbian ELTeC Collection
+**Cvetana Krstev, Cvetana Krstev**
+
+#### OCR and TEI for the Production of ELTeC - Würzburg Training School, 16-17 April 2018
+**Jelena Andonovski**
+
 ## Section 2: Annotating ELTeC
 
 This section contains papers concerned with the process of adding annotations to one or several ELTeC collections, in particular annotations pertaining to part of speech, dependency relations, and named entities. 
@@ -48,6 +54,27 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### Short Term Scientific Mission to Krakow: Comparative Stylistic and Morphosyntactic Analysis of ELTeC Texts Using Stylo R Package
 **Mihailo Škorić**
 
+#### Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School
+**Mihailo Škorić**
+
+#### From Onions to Champagne – Food and Drink in the SrpELTeC Corpus
+**Duško Vitas**
+
+#### SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch
+**Ranka Stanković, Mihailo Škorić, and Petar Popović**
+
+#### Distant Reading Training School 2020: Named Entity Recognition & Geo-Tagging for Literary Analysis
+**Ranka Stanković**
+
+#### White as Snow, Black as Night – Similes in Old Serbian Literary Texts
+**Cvetana Krstev**
+
+#### Ideas and Observations from the Time of the ELTeC Corpus - a Selection of Quotations
+**Cvetana Krstev**
+
+#### Serbian ELTeC Sub-Collection in Wikidata
+**Milica Ikonić Nešić, Ranka Stanković, and Biljana Rujević**
+
 ## Section 4: Theoretical concerns 
 
 This section is dedicated to papers that address issues of literary theory and literary history that are of concern when digital corpora and algorithmic methods of analysis are used in Literary Studies. 
@@ -67,9 +94,6 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 
 #### Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution
 **Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
-
-#### Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School
-**Mihailo Škorić**
 
 ## Section 6: Distant Reading Recommends 
 
