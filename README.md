@@ -34,12 +34,18 @@ This section is dedicated to papers describing the process of designing and buil
 #### OCR and TEI for the Production of ELTeC - Würzburg Training School, 16-17 April 2018
 **Jelena Andonovski**
 
+#### From Close to Distant Reading of 100 Romanian Novels
+**Luisa Marinescu**
+
 ## Section 2: Annotating ELTeC
 
 This section contains papers concerned with the process of adding annotations to one or several ELTeC collections, in particular annotations pertaining to part of speech, dependency relations, and named entities. 
 
 #### [Annotation of the Serbian ELTeC Collection](/p/annotation.md)
 **Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić**
+
+#### Distant Reading Training School 2020: Named Entity Recognition & Geo-Tagging for Literary Analysis
+**Ranka Stanković**
 
 ## Section 3: Analysing ELTeC
 
@@ -63,9 +69,6 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch
 **Ranka Stanković, Mihailo Škorić, and Petar Popović**
 
-#### Distant Reading Training School 2020: Named Entity Recognition & Geo-Tagging for Literary Analysis
-**Ranka Stanković**
-
 #### White as Snow, Black as Night – Similes in Old Serbian Literary Texts
 **Cvetana Krstev**
 
@@ -74,6 +77,18 @@ The papers in this section are dedicated to the analysis of one or several of th
 
 #### Serbian ELTeC Sub-Collection in Wikidata
 **Milica Ikonić Nešić, Ranka Stanković, and Biljana Rujević**
+
+#### Periodização automática: Estudos linguístico-estatísticos de literatura lusófona
+**Diana Santos, Emanoel Pires, Cláudia Freitas, Rebeca Schumacher Fuão, and João Marques Lopes**
+
+#### Analysis of Similes in Serbian Literary Texts (1860-1920) Using Computational Methods
+**Cvetana Krstev, Jelena Jaćimović, and Duško Vitas**
+
+#### Textometric Methods and the TXM Platform for Corpus Analysis and Visual Presentation
+**Jelena Jaćimović**
+
+#### Doctors in Lusophone Literature
+**Diana Santos**
 
 ## Section 4: Theoretical concerns 
 
@@ -94,6 +109,24 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 
 #### Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution
 **Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
+
+#### These Quick-Reading Times: Distant Reading Moore’s Poetic Style
+**Justin Tonra**
+
+#### What Is Distant Reading?
+**Justin Tonra**
+
+#### On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry
+**Borja Navarro-Colorado**
+
+#### Data-Science trifft Schöngeist
+**Marion Koch**
+
+#### Europäische Literaturgeschichte. Ein Gespräch mit Christof Schöch
+**Christof Schöch**
+
+#### Die europäische Literaturgeschichte wird neu geschrieben. Digital Humanities an Uni Trier bereiten Literatur neu auf
+**SP**
 
 ## Section 6: Distant Reading Recommends 
 
