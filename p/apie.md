@@ -21,7 +21,7 @@ It seems that in the humanities, the habit of consistent reading has started to 
 
 ### Keywords
 
-Data, Digital Humanities, Moretti, Archive, Distant Reading, ELTeC
+Data, Digital Humanities, Moretti, Archive, Distant Reading
 
 ### Direct Access
 
