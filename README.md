@@ -59,7 +59,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [The Splendors and Mist(Eries) of Romanian Digital Literary Studies](/p/splendors.md)
 **Roxana Patras, Ioana Galleron, Camelia Gradinaru, Ioana Lionte, and Lucreţia Pascaru**
 
-#### Stylometry in a Bilingual Setup
+#### [Stylometry in a Bilingual Setup](/p/bilingual.md)
 **Silvie Cinková and Jan Rybicki**
 
 ## Section 6: Distant Reading Recommends 
