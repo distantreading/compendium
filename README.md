@@ -29,7 +29,7 @@ This section is dedicated to papers describing the process of designing and buil
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
 #### Novels and Authors of the Serbian ELTeC Collection
-**Cvetana Krstev, Cvetana Krstev**
+**Cvetana Krstev, Ranka Stanković**
 
 #### OCR and TEI for the Production of ELTeC - Würzburg Training School, 16-17 April 2018
 **Jelena Andonovski**
