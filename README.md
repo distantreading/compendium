@@ -49,7 +49,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 
 This section is dedicated to papers that address issues of literary theory and literary history that are of concern when digital corpora and algorithmic methods of analysis are used in Literary Studies. 
 
-#### Apie skaitymą iš toli ir iš arti [About Distant and Close Reading]
+#### [Apie skaitymą iš toli ir iš arti [About Distant and Close Reading]](/p/apie.md)
 **Saulius Keturakis**
 
 ## Section 5: Beyond ELTeC, beyond the Action
