@@ -34,7 +34,7 @@ This section is dedicated to papers describing the process of designing and buil
 #### [OCR and TEI for the Production of ELTeC – Würzburg Training School, 16-17 April 2018](/p/production.md)
 **Jelena Andonovski**
 
-#### From Close to Distant Reading of 100 Romanian Novels
+#### [From Close to Distant Reading of 100 Romanian Novels](/p/close.md)
 **Luisa Marinescu**
 
 ## Section 2: Annotating ELTeC
