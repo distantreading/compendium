@@ -57,7 +57,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Detecting Direct Speech in Multilingual Collection of 19th Century Novels](/p/detecting.md)
 **Joanna Byszuk, Michał Woźniak, Mike Kestemont, Albert Leśniak, Wojciech Łukasik, Artjoms Šeļa, Maciej Eder, and others**
 
-#### Short Term Scientific Mission to Krakow: Comparative Stylistic and Morphosyntactic Analysis of ELTeC Texts Using Stylo R Package
+#### [Short Term Scientific Mission to Krakow: Comparative Stylistic and Morphosyntactic Analysis of ELTeC Texts Using Stylo R Package](/p/krakow.md)
 **Mihailo Škorić**
 
 #### Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School
