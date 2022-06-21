@@ -28,7 +28,7 @@ This section is dedicated to papers describing the process of designing and buil
 #### [The Serbian Part of the ELTeC – from the Empty List to the 100 Novels Collection](/p/serbian.md)
 **Aleksandra Trtovac, Vasilije Milnović, and Cvetana Krstev**
 
-#### Novels and Authors of the Serbian ELTeC Collection
+#### [Novels and Authors of the Serbian ELTeC Collection](/p/novels.md)
 **Cvetana Krstev, Ranka Stanković**
 
 #### OCR and TEI for the Production of ELTeC - Würzburg Training School, 16-17 April 2018
