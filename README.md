@@ -35,7 +35,7 @@ This section is dedicated to papers describing the process of designing and buil
 **Jelena Andonovski**
 
 #### [From Close to Distant Reading of 100 Romanian Novels](/p/close.md)
-**Luisa Marinescu**
+**Luiza Marinescu**
 
 ## Section 2: Annotating ELTeC
 
