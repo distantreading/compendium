@@ -44,7 +44,7 @@ This section contains papers concerned with the process of adding annotations to
 #### [Annotation of the Serbian ELTeC Collection](/p/annotation.md)
 **Ranka Stanković, Cvetana Krstev, Branislava Šandrih Todorović, and Mihailo Škorić**
 
-#### Distant Reading Training School 2020: Named Entity Recognition & Geo-Tagging for Literary Analysis
+#### [Distant Reading Training School 2020: Named Entity Recognition & Geo-Tagging for Literary Analysis](/p/geo_tagging.md)
 **Ranka Stanković**
 
 ## Section 3: Analysing ELTeC
