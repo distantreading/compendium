@@ -13,7 +13,7 @@ permalink: /p/onions/
 
 ### Reference
 
-Vitas, Duško. "From Onions to Champagne – Food and Drink in the SrpELTeC Corpus", _Infotheca_, 21.2 (2021), 88–118. DOI: [10.18485/infotheca.2021.21.2.5] (https://doi.org/10.18485/infotheca.2021.21.2.5)
+Vitas, Duško. "From Onions to Champagne – Food and Drink in the SrpELTeC Corpus", _Infotheca_, 21.2 (2021), 88–118. DOI: [10.18485/infotheca.2021.21.2.5](https://doi.org/10.18485/infotheca.2021.21.2.5)
 
 ### Direct Access
 
