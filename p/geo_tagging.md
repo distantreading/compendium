@@ -22,6 +22,7 @@ Stanković, Ranka. "Distant Reading Training School 2020: Named Entity Recogniti
 ### BibTex
 
 ```
+
 @article{stankovic_distant_2021,
 	title = {Distant {Reading} {Training} {School} 2020: {Named} {Entity} {Recognition} \& {Geo}-{Tagging} for {Literary} {Analysis}},
 	volume = {21},
