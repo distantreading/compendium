@@ -22,6 +22,7 @@ Andonovski, Jelena. ‘OCR and TEI for the Production of ELTeC - Würzburg Train
 ### BibTex
 
 ```
+
 @article{andonovski_ocr_2021,
 	title = {{OCR} and {TEI} for the {Production} of {ELTeC} - {Würzburg} {Training} {School}, 16-17 {April} 2018},
 	volume = {21},
