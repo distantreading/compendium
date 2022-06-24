@@ -15,6 +15,14 @@ permalink: /p/snow/
 
 Krstev, Cvetana. "White as Snow, Black as Night – Similes in Old Serbian Literary Texts", _Infotheca_, 21.2 (2021), 119–36. DOI: [10.18485/infotheca.2021.21.2.6](https://doi.org/10.18485/infotheca.2021.21.2.6)
 
+### Abstract
+
+This paper outlines the use of simile rhetorical figure in the Serbian sub-collection SrpELTeC, a part of the ELTeC collection. We analyze their use by different criteria: authors, time periods, author's gender, novel's size and novel's popularity. We also analyze adjectives, nouns and markers used in similes found in SrpELTeC, as well as entities to which they apply. We briefly compare this results on an ad hoc sample of contemporary Serbian novels.
+
+### Keywords
+
+Serbian, Novels, ELTeC, Corpus, Local grammars, Similes
+
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/snow.pdf)
