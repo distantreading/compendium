@@ -69,7 +69,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch](p/platforms.md)
 **Ranka Stanković, Mihailo Škorić, and Petar Popović**
 
-#### White as Snow, Black as Night – Similes in Old Serbian Literary Texts
+#### [White as Snow, Black as Night – Similes in Old Serbian Literary Texts](/p/snow.md)
 **Cvetana Krstev**
 
 #### Ideas and Observations from the Time of the ELTeC Corpus – a Selection of Quotations
