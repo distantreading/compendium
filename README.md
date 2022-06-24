@@ -66,7 +66,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [From Onions to Champagne – Food and Drink in the SrpELTeC Corpus](/p/onions.md)
 **Duško Vitas**
 
-#### SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch
+#### [SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch](p/platforms.md)
 **Ranka Stanković, Mihailo Škorić, and Petar Popović**
 
 #### White as Snow, Black as Night – Similes in Old Serbian Literary Texts
