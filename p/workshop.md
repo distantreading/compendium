@@ -1,6 +1,6 @@
 ---
 title: "Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School"
-permalink: /p/detecting/
+permalink: /p/workshop/
 ---
 
 <meta name="citation_title" content="Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School">
