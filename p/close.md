@@ -26,6 +26,7 @@ Romanian, Novels, European literary history, Digital humanities, Moretti, Distan
 ### BibTex
 
 ```
+
 @article{marinescu_close_2019,
 	title = {From {Close} to {Distant} {Reading} of 100 {Romanian} {Novels}},
 	volume = {LXIV},
