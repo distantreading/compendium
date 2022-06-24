@@ -63,7 +63,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Workshop “Methods and Tools of Distant Reading Adapted to Multiple European Languages” at the Galway Training School](/p/workshop.md)
 **Mihailo Škorić**
 
-#### From Onions to Champagne – Food and Drink in the SrpELTeC Corpus
+#### [From Onions to Champagne – Food and Drink in the SrpELTeC Corpus](/p/onions.md)
 **Duško Vitas**
 
 #### SrpELTeC on Platforms: Udaljeno čitanje, Aurora, noSketch
