@@ -72,7 +72,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [White as Snow, Black as Night – Similes in Old Serbian Literary Texts](/p/snow.md)
 **Cvetana Krstev**
 
-#### Ideas and Observations from the Time of the ELTeC Corpus – a Selection of Quotations
+#### [Ideas and Observations from the Time of the ELTeC Corpus – a Selection of Quotations](/p/quotations.md)
 **Cvetana Krstev**
 
 #### Serbian ELTeC Sub-Collection in Wikidata
