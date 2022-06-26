@@ -110,7 +110,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution](/p/parallel.md)
 **Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
 
-#### These Quick-Reading Times: Distant Reading Moore’s Poetic Style
+#### [These Quick-Reading Times: Distant Reading Moore’s Poetic Style](/p/quick.md)
 **Justin Tonra**
 
 #### What Is Distant Reading?
