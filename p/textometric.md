@@ -15,6 +15,14 @@ permalink: /p/textometric/
 
 Jaćimović, Jelena. "Textometric Methods and the TXM Platform for Corpus Analysis and Visual Presentation", _Infotheca - Journal for Digital Humanities_, 19.1 (2019), 30–54. DOI: [10.18485/infotheca.2019.19.1.2](https://doi.org/10.18485/infotheca.2019.19.1.2)
 
+### Abstract
+
+Textometric approach has long been applied as a useful method for corpus analysis in various fields of humanities and social sciences. Textometry allows the non-linear quantitative and qualitative study of digital corpora, combining lexicometric and statistical research with developed corpus technologies. In this paper, the current version of the srpELTeC corpus was analyzed within the TXM program environment to illustrate the possibilities of the textometric approach and visual presentation of the obtained results.
+
+### Keywords
+
+Textometry, Digital corpora, Serbian, TXM, ELTeC
+
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/textometric.pdf)
