@@ -113,7 +113,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [These Quick-Reading Times: Distant Reading Moore’s Poetic Style](/p/quick.md)
 **Justin Tonra**
 
-#### What Is Distant Reading?
+#### [What Is Distant Reading?](/p/distant.md)
 **Justin Tonra**
 
 #### On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry
