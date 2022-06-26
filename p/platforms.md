@@ -26,10 +26,10 @@ Stanković, Ranka, Mihailo Škorić, and Petar Popović. "SrpELTeC on Platforms:
 ```
 
 @article{stankovic_srpeltec_2021,
-	title = "SrpELTeC on {Platforms}: {{Udaljeno} čitanje}, {Aurora}, {NoSketch}",
+	title = "{SrpELTeC on Platforms}: {Udaljeno čitanje}, {Aurora}, {NoSketch}",
 	volume = {21},
 	issn = {1450-9687, 2217-9461},
-	shorttitle = "SrpELTeC on Platforms",
+	shorttitle = "{SrpELTeC on Platforms}",
 	url = {http://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.7_en},
 	doi = {10.18485/infotheca.2021.21.2.7},
 	number = {2},
