@@ -25,7 +25,7 @@ Similes are rhetorical figures which play an important role in literary texts. T
 
 ### Keywords
 
-ELTeC, Annotation, Novels, Textometrics, Rhetorical figures, Literary corpus, Simile, Multi-word units, Serbian
+ELTeC, Annotation, Novels, Textometry, Literary corpus, Simile, Multi-word units, Serbian
 
 ### Direct Access
 
