@@ -107,7 +107,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [Stylometry in a Bilingual Setup](/p/bilingual.md)
 **Silvie Cinková and Jan Rybicki**
 
-#### Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution
+#### [Parallel Stylometric Document Embeddings with Deep Learning Based Language Models in Literary Authorship Attribution](/p/parallel.md)
 **Mihailo Škorić, Ranka Stanković, Milica Ikonić Nešić, Joanna Byszuk, and Maciej Eder**
 
 #### These Quick-Reading Times: Distant Reading Moore’s Poetic Style
