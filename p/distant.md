@@ -10,7 +10,7 @@ permalink: /p/distant/
 <meta name="citation_publisher_name" content="Routledge">
 <meta name="citation_publication_place" content="New York; Abingdon">
 
-## These Quick-Reading Times: Distant Reading Moore’s Poetic Style
+## What is distant reading?
 
 ### Reference
 
