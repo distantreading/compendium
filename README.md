@@ -119,13 +119,13 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry](/p/poetic.md)
 **Borja Navarro-Colorado**
 
-#### Data-Science trifft Schöngeist
+#### [Data-Science trifft Schöngeist](/p/data.md)
 **Marion Koch**
 
-#### Europäische Literaturgeschichte. Ein Gespräch mit Christof Schöch
+#### [Europäische Literaturgeschichte. Ein Gespräch mit Christof Schöch](/p/gespräch.md)
 **Christof Schöch**
 
-#### Die europäische Literaturgeschichte wird neu geschrieben. Digital Humanities an Uni Trier bereiten Literatur neu auf
+#### [Die europäische Literaturgeschichte wird neu geschrieben. Digital Humanities an Uni Trier bereiten Literatur neu auf](p/trier.md)
 **SP**
 
 ## Section 6: Distant Reading Recommends 
