@@ -116,7 +116,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [What Is Distant Reading?](/p/distant.md)
 **Justin Tonra**
 
-#### On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry
+#### [On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry](/p/poetic.md)
 **Borja Navarro-Colorado**
 
 #### Data-Science trifft Schöngeist
