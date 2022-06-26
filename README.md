@@ -75,7 +75,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Ideas and Observations from the Time of the ELTeC Corpus – a Selection of Quotations](/p/quotations.md)
 **Cvetana Krstev**
 
-#### Serbian ELTeC Sub-Collection in Wikidata
+#### [Serbian ELTeC Sub-Collection in Wikidata](/p/wikidata.md)
 **Milica Ikonić Nešić, Ranka Stanković, and Biljana Rujević**
 
 #### Periodização automática: Estudos linguístico-estatísticos de literatura lusófona
