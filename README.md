@@ -78,7 +78,7 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Serbian ELTeC Sub-Collection in Wikidata](/p/wikidata.md)
 **Milica Ikonić Nešić, Ranka Stanković, and Biljana Rujević**
 
-#### Periodização automática: Estudos linguístico-estatísticos de literatura lusófona
+#### [Periodização automática: Estudos linguístico-estatísticos de literatura lusófona](/p/periodizacao.md)
 **Diana Santos, Emanoel Pires, Cláudia Freitas, Rebeca Schumacher Fuão, and João Marques Lopes**
 
 #### Analysis of Similes in Serbian Literary Texts (1860-1920) Using Computational Methods
