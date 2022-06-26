@@ -81,13 +81,13 @@ The papers in this section are dedicated to the analysis of one or several of th
 #### [Periodização automática: Estudos linguístico-estatísticos de literatura lusófona](/p/periodizacao.md)
 **Diana Santos, Emanoel Pires, Cláudia Freitas, Rebeca Schumacher Fuão, and João Marques Lopes**
 
-#### Analysis of Similes in Serbian Literary Texts (1860-1920) Using Computational Methods
+#### [Analysis of Similes in Serbian Literary Texts (1860-1920) Using Computational Methods](/p/similes.md)
 **Cvetana Krstev, Jelena Jaćimović, and Duško Vitas**
 
-#### Textometric Methods and the TXM Platform for Corpus Analysis and Visual Presentation
+#### [Textometric Methods and the TXM Platform for Corpus Analysis and Visual Presentation](/p/textometric.md)
 **Jelena Jaćimović**
 
-#### Doctors in Lusophone Literature
+#### [Doctors in Lusophone Literature](/p/doctors.md)
 **Diana Santos**
 
 ## Section 4: Theoretical concerns 
