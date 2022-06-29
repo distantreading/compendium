@@ -132,7 +132,7 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 
 This section references the blog posts from the Distant Reading Recommends series. The posts in this series describe individual novels from ELTeC that have been unjustly forgotten. 
 
-### [Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda](/p/sab.md)
+#### [Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda](/p/sab.md)
 **Borja Navarro Colorado and Rosario Arias**
 
 ## Downloads and links
