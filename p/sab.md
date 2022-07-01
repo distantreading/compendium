@@ -14,7 +14,7 @@ permalink: /p/sab/
 
 ### Reference
 
-Borja Navarro Colorado, and Rosario Arias. "Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda", _Distant Reading_, (2022). URL: https://www.distant-reading.net/distant-reading-recommends-sab-by-gertrudis-gomez-de-avellaneda/
+Borja Navarro Colorado, and Rosario Arias. "Sab by Gertrudis Gómez de Avellaneda (Distant Reading Recommends)", _Distant Reading_, (2022). URL: https://www.distant-reading.net/distant-reading-recommends-sab-by-gertrudis-gomez-de-avellaneda/
 
 ### Abstract
 
