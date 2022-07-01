@@ -28,3 +28,23 @@ Spanish, Novel, Nineteenth-Century, Slavery, Women, Freedom
 
 - [Blog](https://www.distant-reading.net/distant-reading-recommends-sab-by-gertrudis-gomez-de-avellaneda/)
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/sab.pdf)
+
+### BibTex
+
+```
+
+@article{navarro_colorado_sab_2022,
+	title = {Sab by {Gertrudis} {Gómez} de {Avellaneda} ({Distant} {Reading} {Recommends})},
+	url = {https://www.distant-reading.net/distant-reading-recommends-sab-by-gertrudis-gomez-de-avellaneda/},
+	language = {English},
+	journal = {Distant Reading for European Literary History (COST Action CA16204)},
+	author = {Navarro Colorado, Borja and Arias, Rosario},
+	editor = {Mihurko-Poniz, Katja},
+	month = apr,
+	year = {2022},
+	keywords = {type\_publication},
+}
+
+```
+
+<span class='Z3988' title='url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sab%20by%20Gertrudis%20G%C3%B3mez%20de%20Avellaneda%20(Distant%20Reading%20Recommends)&amp;rft.jtitle=Distant%20Reading%20for%20European%20Literary%20History%20(COST%20Action%20CA16204)&amp;rft.aufirst=Borja&amp;rft.aulast=Navarro%20Colorado&amp;rft.au=Borja%20Navarro%20Colorado&amp;rft.au=Rosario%20Arias&amp;rft.au=Katja%20Mihurko-Poniz&amp;rft.date=2022-04-24&amp;rft.language=English'></span>
