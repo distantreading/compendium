@@ -31,6 +31,7 @@ Document embeddings, Authorship attribution, Language modelling, Corpus, Stylome
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/parallel.pdf)
+- [Article](https://mdpi-res.com/d_attachment/mathematics/mathematics-10-00838/article_deploy/mathematics-10-00838.pdf?version=1646620629)
 
 ### BibTex
 
