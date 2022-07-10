@@ -132,7 +132,7 @@ This section references the blog posts from the Distant Reading Recommends serie
 #### [Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda](/p/sab.md)
 **Borja Navarro Colorado and Rosario Arias**
 
-#### [Distant Reading Recommends: Tovaryshky (Friends) by Olena Pchilka]
+#### [Distant Reading Recommends: Tovaryshky (Friends) by Olena Pchilka](/p/tovaryshky.md)
 **Dmytro Yesypenko**
 
 #### [Distant Reading Recommends: Ships that Pass in the Night by Beatrice Harraden]
