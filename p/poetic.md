@@ -26,6 +26,7 @@ Distant reading, Corpus, Poetry, LDA, Topic modeling, Spanish
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/poetic.pdf)
+- [Article](https://fjfsdata01prod.blob.core.windows.net/articles/files/306950/pubmed-zip/.versions/1/.package-entries/fdigh-05-00015/fdigh-05-00015.pdf?sv=2018-03-28&sr=b&sig=BsPnOTz7l7VqVsK6oeA1vTpKCvEBp7LvmJ0LJy6Inao%3D&se=2022-07-10T16%3A16%3A04Z&sp=r&rscd=attachment%3B%20filename%2A%3DUTF-8%27%27fdigh-05-00015.pdf)
 
 ### BibTex
 
