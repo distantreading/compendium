@@ -29,6 +29,7 @@ Distant reading, ELTeC, ODD chaining, corpus design, European novel, literary St
 ### Direct Access
 
 * [PDF](https://github.com/distantreading/compendium/blob/main/f/comity.pdf)
+* [Journal](https://journals.openedition.org/jtei/pdf/3500)
 
 ### BibTex
 
