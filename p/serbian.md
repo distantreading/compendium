@@ -29,6 +29,7 @@ ELTeC, corpus design, European novel, Literary Studies, Serbian
 ### Direct Access
 
 * [PDF](https://github.com/distantreading/compendium/blob/main/f/serbian.pdf)
+* [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.1_en/245)
 
 ### BibTex
 
