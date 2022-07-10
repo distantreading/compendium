@@ -4,11 +4,8 @@ permalink: /p/zeleno/
 ---
 
 <meta name="citation_title" content="Distant Reading Recommends: Zeleno busenje (Green Turf) by Edhem Mulabdić">
-<meta name="citation_author" content="Luminița Andrada Baldovin">
-<meta name="citation_author" content="Georgiana Aurelia Crivăț">
-<meta name="citation_author" content="Gianina Drăgan">
-<meta name="citation_author" content="Diana Florentina Geantă">
-<meta name="citation_author" content="Andra-Mihaela Vlădoiu">
+<meta name="citation_author" content="Vedad Mulavdić">
+<meta name="citation_author" content="Meliha Handžić">
 <meta name="citation_publication_date" content="2021-04-19">
 <meta name="citation_blog_title" content="Distant Reading Recommends">
 <meta name="citation_blog_publisher" content="http://distant-reading.net">
