@@ -26,6 +26,7 @@ Textometry, Digital corpora, Serbian, TXM, ELTeC
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/textometric.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2019.19.1.2_en/175)
 
 ### BibTex
 
