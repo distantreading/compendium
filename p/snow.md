@@ -26,6 +26,7 @@ Serbian, Novels, ELTeC, Corpus, Local grammars, Similes
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/snow.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.6_en/250)
 
 ### BibTex
 
