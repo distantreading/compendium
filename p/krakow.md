@@ -18,6 +18,7 @@ permalink: /p/krakow/
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/krakow.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.11_en/255)
 
 ### BibTex
 
