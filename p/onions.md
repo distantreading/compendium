@@ -18,6 +18,7 @@ Vitas, Duško. "From Onions to Champagne – Food and Drink in the SrpELTeC Corp
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/onions.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.5_en/249)
 
 ### BibTex
 

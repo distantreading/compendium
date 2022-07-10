@@ -18,6 +18,7 @@ Stanković, Ranka. "Distant Reading Training School 2020: Named Entity Recogniti
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/geo_tagging.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/223/256) 
 
 ### BibTex
 

@@ -20,6 +20,7 @@ ELTeC, titles, annotation, multilingual
 ### Direct Access
 
 * [PDF](https://github.com/distantreading/compendium/blob/main/f/thresholds.pdf)
+* [Article](http://interferenceslitteraires.be/index.php/illi/article/view/1102/958)
 
 ### BibTex
 

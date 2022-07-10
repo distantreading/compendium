@@ -18,6 +18,7 @@ permalink: /p/workshop/
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/workshop.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.9_en/253)
 
 ### BibTex
 

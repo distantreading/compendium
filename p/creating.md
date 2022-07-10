@@ -30,6 +30,7 @@ ELTeC, Corpus Design, European Novel, Literary Studies
 ### Direct Access
 
 * [PDF](https://github.com/distantreading/compendium/blob/main/f/creating.pdf)
+* [Journal](https://www.modernlanguagesopen.org/articles/10.3828/mlo.v0i0.364/galley/497/download/)
 
 ### BibTex
 

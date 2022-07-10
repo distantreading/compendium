@@ -26,6 +26,7 @@ Data, Digital Humanities, Moretti, Archive, Distant Reading
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/apie.pdf)
+- [Journal](http://www.litlogos.eu/L99/Keturakis.html)
 
 ### BibTex
 

@@ -34,6 +34,7 @@ Direct speech recognition, Multilingual, 19th century novels, Deep learning, Tra
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/detecting.pdf)
+- [Proceedings](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/LT4HALAbook.pdf) 
 
 ### BibTex
 

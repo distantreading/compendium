@@ -30,6 +30,7 @@ ELTeC, Annotation, Novels, Textometry, Literary corpus, Simile, Multi-word units
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/similes.pdf)
+- [Proceedings](https://dcl.bas.bg/clib/wp-content/uploads/2020/06/CLIB2020_PROCEEDINGS_v1.0.pdf)
 
 ### BibTex
 

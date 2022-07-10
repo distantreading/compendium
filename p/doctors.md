@@ -14,10 +14,6 @@ permalink: /p/doctors/
 
 Santos, Diana. "Doctors in Lusophone Literature", _Digital Literary Stylistics_, 2019. URL: https://dls.hypotheses.org/952
 
-### Direct Access
-
-- [PDF](https://github.com/distantreading/compendium/blob/main/f/doctors.pdf)
-
 ### BibTex
 
 ```

@@ -31,6 +31,7 @@ Wikidata, SPARQL, Distant reading, Corpus, NER, ELTeC, Serbian, Novels.
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/wikidata.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.4_en/260)
 
 ### BibTex
 

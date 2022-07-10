@@ -29,6 +29,7 @@ Stylometry, Multilinguality, Authorship attribution, Translation, Czech-German, 
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/bilingual.pdf)
+- [Paper](https://aclanthology.org/2020.lrec-1.123.pdf)
 
 ### BibTex
 

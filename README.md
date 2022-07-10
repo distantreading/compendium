@@ -119,9 +119,6 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 #### [On Poetic Topic Modeling: Extracting Themes and Motifs From a Corpus of Spanish Poetry](/p/poetic.md)
 **Borja Navarro-Colorado**
 
-#### [Data-Science trifft Schöngeist](/p/data.md)
-**Marion Koch**
-
 #### [Europäische Literaturgeschichte. Ein Gespräch mit Christof Schöch](/p/gespräch.md)
 **Christof Schöch**
 
@@ -131,6 +128,33 @@ Work in the Action has in many cases also looked beyond ELTeC or beyond the imme
 ## Section 6: Distant Reading Recommends 
 
 This section references the blog posts from the Distant Reading Recommends series. The posts in this series describe individual novels from ELTeC that have been unjustly forgotten. 
+
+#### [Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda](/p/sab.md)
+**Borja Navarro Colorado and Rosario Arias**
+
+#### [Distant Reading Recommends: Tovaryshky (Friends) by Olena Pchilka](/p/tovaryshky.md)
+**Dmytro Yesypenko**
+
+#### [Distant Reading Recommends: Ships that Pass in the Night by Beatrice Harraden](/p/ships.md)
+**Luminița Andrada Baldovin, Georgiana Aurelia Crivăț, Gianina Drăgan, Diana Florentina Geantă, and Andra-Mihaela Vlădoiu**
+
+#### [Distant Reading Recommends: Zeleno busenje (Green Turf) by Edhem Mulabdić](/p/zeleno.md)
+**Vedad Mulavdić, and Meliha Handžić**
+
+#### [Distant Reading Recommends: Beatin dnevnik (Beata’s Diary) by Luiza Pesjak](/p/beatin.md)
+**Katja Mihurko Poniž**
+
+#### [Distant Reading Recommends: Nove (The New Women) by Jelena Dimitrijević](/p/nove.md)
+**Cvetana Krstev, and Vasilije Milnovic**
+
+#### [Distant Reading Recommends: Under the Yoke by Ivan Vazov](/p/yoke.md)
+**Ellie Boyadzhieva**
+
+#### [Distant Reading Recommends: Iancu Jianu by N. D. Popescu](/p/iancu.md)
+**Roxana Patras**
+
+#### [Distant Reading Recommends: Kuprelis (The Hunchback) by Ignas Šeinius](/p/kuprelis.md)
+**Saulius Keturakis**
 
 ## Downloads and links
 

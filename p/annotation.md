@@ -30,6 +30,7 @@ ELTeC, Serbian, Novel, Corpus, Annotation, POS, NER, Named Entities
 ### Direct Access
 
 * [PDF](https://github.com/distantreading/compendium/blob/main/f/annotation.pdf)
+* [Journal](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.3_en/259)
 
 ### BibTex
 

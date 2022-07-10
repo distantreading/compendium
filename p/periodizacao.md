@@ -30,6 +30,7 @@ Distant reading, Corpus linguistics, Novels, Literary periods, Classification, R
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/periodizacao.pdf)
+- [Article](https://linguamatica.com/index.php/linguamatica/article/view/314/465)
 
 ### BibTex
 

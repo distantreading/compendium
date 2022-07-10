@@ -20,6 +20,7 @@ Stanković, Ranka, Mihailo Škorić, and Petar Popović. "SrpELTeC on Platforms:
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/platforms.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.7_en/251)
 
 ### BibTex
 

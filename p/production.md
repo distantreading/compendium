@@ -18,6 +18,7 @@ Andonovski, Jelena. ‘OCR and TEI for the Production of ELTeC - Würzburg Train
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/production.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.8_en/252)
 
 ### BibTex
 
