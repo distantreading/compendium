@@ -135,6 +135,30 @@ This section references the blog posts from the Distant Reading Recommends serie
 #### [Distant Reading Recommends: Sab by Gertrudis Gómez de Avellaneda](/p/sab.md)
 **Borja Navarro Colorado and Rosario Arias**
 
+#### [Distant Reading Recommends: Tovaryshky (Friends) by Olena Pchilka]
+**Dmytro Yesypenko**
+
+#### [Distant Reading Recommends: Ships that Pass in the Night by Beatrice Harraden]
+**Luminița Andrada Baldovin, Georgiana Aurelia Crivăț, Gianina Drăgan, Diana Florentina Geantă, and Andra-Mihaela Vlădoiu**
+
+#### [Distant Reading Recommends: Zeleno busenje (Green Turf) by Edhem Mulabdić]
+**Vedad Mulavdić, and Meliha Handžić**
+
+#### [Distant Reading Recommends: Beatin dnevnik (Beata’s Diary) by Luiza Pesjak]
+**Katja Mihurko Poniž**
+
+#### [Distant Reading Recommends: Nove (The New Women) by Jelena Dimitrijević]
+**Cvetana Krstev, and Vasilije Milnovic**
+
+#### [Distant Reading Recommends: Under the Yoke by Ivan Vazov]
+**Ellie Boyadzhieva**
+
+#### [Distant Reading Recommends: Iancu Jianu by N. D. Popescu]
+**Roxana Patras**
+
+#### [Distant Reading Recommends: Kuprelis (The Hunchback) by Ignas Šeinius]
+**Saulius Keturakis**
+
 ## Downloads and links
 
 * A [list of all papers in the _Distant Reading Compendium_](https://github.com/distantreading/compendium/blob/main/d/compendium-list.pdf) in PDF format
