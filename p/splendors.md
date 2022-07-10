@@ -30,6 +30,7 @@ Computational Literary Studies, Digital Turn, Data management, Annotation, Roman
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/splendors.pdf)
+- [Article](http://hermeneia.ro/wp-content/uploads/2019/11/18_Patras-et-al.pdf)
 
 ### BibTex
 
