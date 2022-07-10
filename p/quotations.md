@@ -18,6 +18,7 @@ Krstev, Cvetana. "Ideas and Observations from the Time of the ELTeC Corpus - a S
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/quotations.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.14_en/258)
 
 ### BibTex
 
