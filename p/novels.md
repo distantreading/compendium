@@ -19,6 +19,7 @@ Krstev, Cvetana, and Ranka Stanković. "Novels and Authors of the Serbian ELTeC 
 ### Direct Access
 
 - [PDF](https://github.com/distantreading/compendium/blob/main/f/novels.pdf)
+- [Article](https://infoteka.bg.ac.rs/ojs/index.php/Infoteka/article/view/2021.21.2.13_en/257)
 
 ### BibTex
 
